@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/tailwind-api-word-generator/static/css/main.e034a54e.css",
-    "main.js": "/tailwind-api-word-generator/static/js/main.c0b0801e.js",
+    "main.css": "/tailwind-api-word-generator/static/css/main.c970fc25.css",
+    "main.js": "/tailwind-api-word-generator/static/js/main.a1d7243b.js",
+    "static/media/background.jpg": "/tailwind-api-word-generator/static/media/background.e08550ec59242ccbd7d3.jpg",
     "index.html": "/tailwind-api-word-generator/index.html",
-    "main.e034a54e.css.map": "/tailwind-api-word-generator/static/css/main.e034a54e.css.map",
-    "main.c0b0801e.js.map": "/tailwind-api-word-generator/static/js/main.c0b0801e.js.map"
+    "main.c970fc25.css.map": "/tailwind-api-word-generator/static/css/main.c970fc25.css.map",
+    "main.a1d7243b.js.map": "/tailwind-api-word-generator/static/js/main.a1d7243b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e034a54e.css",
-    "static/js/main.c0b0801e.js"
+    "static/css/main.c970fc25.css",
+    "static/js/main.a1d7243b.js"
   ]
 }
