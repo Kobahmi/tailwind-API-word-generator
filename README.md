@@ -1,3 +1,8 @@
+Tailwind CSS and API practice for new job.
+
+Link to live preview: https://kobahmi.github.io/tailwind-api-word-generator/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
