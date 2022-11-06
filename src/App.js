@@ -31,14 +31,14 @@ function App() {
   };
 
   return (
-    <div className="flex flex-col  items-center min-h-screen">
+    <div className="flex flex-col bg-backgroundimg bg-cover items-center min-h-screen">
       <Header />
       <Search
         setWord={(e) => setWord(e.target.value)}
         handleFetchSynonyms={handleFetchSynonyms}
         word={word}
       />
-      <ul className="grid md:grid-cols-4 sm:grid-cols-2 gap-x-10 gap-y-2">
+      <ul className="grid text-center md:grid-cols-4 sm:grid-cols-2 gap-x-10 gap-y-2">
         {synonyms.map((synonym, index) => (
           <List key={index} item={synonym} />
         ))}

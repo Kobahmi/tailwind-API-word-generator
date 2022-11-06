@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwind-api-word-generator/static/css/main.e034a54e.css",
+    "main.js": "/tailwind-api-word-generator/static/js/main.c0b0801e.js",
+    "index.html": "/tailwind-api-word-generator/index.html",
+    "main.e034a54e.css.map": "/tailwind-api-word-generator/static/css/main.e034a54e.css.map",
+    "main.c0b0801e.js.map": "/tailwind-api-word-generator/static/js/main.c0b0801e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e034a54e.css",
+    "static/js/main.c0b0801e.js"
+  ]
+}
